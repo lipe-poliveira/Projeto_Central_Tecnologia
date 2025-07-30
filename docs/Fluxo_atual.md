@@ -1,8 +1,5 @@
-## Fluxo Atual de Dados – HCFMRP
-
-```mermaid
 graph TD
-    HC_Campus[HC Campus<br>(Data Center)]
+    HC_Campus[HC Campus (Data Center)]
     DB[(Banco de Dados Centralizado)]
 
     HC_Campus --> DB
