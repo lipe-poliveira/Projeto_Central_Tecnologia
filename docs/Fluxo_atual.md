@@ -1,3 +1,6 @@
+## Fluxo Atual de Dados – HCFMRP
+
+```mermaid
 graph TD
     subgraph Unidade Central
         DC[Data Center<br>HC Campus]
