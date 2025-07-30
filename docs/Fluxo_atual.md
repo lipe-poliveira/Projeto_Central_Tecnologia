@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     HC_Campus[HC Campus (Data Center)]
     DB[(Banco de Dados Centralizado)]
