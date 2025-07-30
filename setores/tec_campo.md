@@ -14,16 +14,21 @@ Com a expansão e reorganização da estrutura de TI, os Técnicos de Campo cont
 - Atuar na **instalação, substituição e configuração** de equipamentos de informática;
 - Garantir o funcionamento adequado da estrutura de TI em cada unidade;
 - **Encaminhar equipamentos ao Laboratório de Informática** quando necessário;
-- Trabalhar em conjunto com a Central de Atendimento Remoto e os demais setores da TI institucional.
+- Trabalhar em conjunto com a Central de Atendimento Remoto e os demais setores da TI institucional;
+- **Prestar suporte inicial a problemas de infraestrutura**, quando aplicável.
 
 ---
 
 ## Atribuições
 
 - Atendimento técnico local (nível 1 e parte do nível 2);
-- Instalação de computadores, impressoras, periféricos e switches;
+- Instalação e substituição de computadores, impressoras, periféricos e switches;
 - Apoio técnico em eventos, treinamentos e implantações nas unidades;
 - Verificação de conectividade, login, sistemas e acesso de usuários;
+- **Prestação de suporte básico à infraestrutura local**, como:
+  - Checagem de pontos de rede, patch panels e switches acessíveis;
+  - Recolhimento de informações para troubleshooting;
+  - Encaminhamento de falhas críticas para a equipe de Infraestrutura;
 - Abertura e acompanhamento de chamados via **GLPI**;
 - Encaminhamento de equipamentos com defeito para o Laboratório de Informática;
 - Acompanhamento técnico de prestadores quando necessário (ex: operadoras de link, assistência in loco).
@@ -54,6 +59,7 @@ Com a expansão e reorganização da estrutura de TI, os Técnicos de Campo cont
 
 - **Atendimento mais rápido e resolutivo** dentro das unidades;
 - Redução do tempo de inatividade de equipamentos e sistemas;
+- **Intervenção inicial em falhas de infraestrutura**, permitindo resposta mais rápida;
 - Maior proximidade entre usuários e área técnica;
 - Apoio técnico permanente para áreas críticas (assistencial, laboratório, emergência, etc.);
 - Melhoria na comunicação entre a TI central e as unidades descentralizadas.
@@ -64,4 +70,4 @@ Com a expansão e reorganização da estrutura de TI, os Técnicos de Campo cont
 
 O Técnico de Campo continuará sendo uma peça-chave no modelo de suporte do HCFMRP. Mesmo com a criação da Central de Tecnologia e seus setores especializados, o atendimento **presencial e imediato** permanece indispensável para garantir a continuidade dos serviços e o bom funcionamento da infraestrutura local de tecnologia.
 
-> **Observação:** a estrutura de técnicos de campo no **HC Campus deve ser reforçada**, dado o alto volume de atendimentos, complexidade dos setores e criticidade da operação hospitalar. Uma equipe estimada de **6 técnicos dedicados** permitirá melhor cobertura de plantões, suporte contínuo e redução de gargalos operacionais.
+> Os Técnicos de Campo também exercem um papel essencial como **apoio inicial às questões de infraestrutura nas unidades**, ajudando a identificar falhas e garantindo o primeiro atendimento técnico até a intervenção da equipe especializada.
