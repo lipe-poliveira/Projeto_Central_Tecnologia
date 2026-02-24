@@ -1,20 +1,71 @@
-# Central de Tecnologia – HCFMRP
+🏥 Central de Tecnologia – HCFMRP
 
-Este projeto visa a criação da **Central de Tecnologia do HCFMRP**, com o objetivo de centralizar, organizar e expandir a governança de TI nas 8 unidades do complexo hospitalar.
+Projeto de estruturação da Central de Tecnologia do HCFMRP, com o objetivo de centralizar, organizar e fortalecer a governança de TI nas 8 unidades do complexo hospitalar.
 
-## Objetivo
-Estruturar uma unidade de tecnologia capaz de oferecer suporte técnico estratégico, padronização de processos, inovação tecnológica e suporte institucional para todas as unidades do HCFMRP.
+🎯 Visão do Projeto
 
-## Justificativa
-A ausência de uma estrutura centralizada de TI gera:
-- Desorganização no fluxo de demandas técnicas
-- Dificuldade na padronização de soluções
-- Gargalos burocráticos e operacionais
-- Limitações em projetos institucionais de tecnologia
+Criar uma unidade estratégica de Tecnologia da Informação capaz de:
 
-## Estrutura do Repositório
-- `/documentacao`: Documentos explicativos e técnicos
-- `/cronograma`: Planejamento por fases
-- `/equipe`: Estrutura da equipe proposta
-- `/apresentacoes`: Slides de apresentação institucional
-- `/planejamento`: Planejamento estratégico completo
+Centralizar e organizar as demandas de TI
+
+Padronizar processos e soluções tecnológicas
+
+Oferecer suporte técnico especializado e institucional
+
+Impulsionar inovação e transformação digital
+
+Garantir governança, segurança e eficiência operacional
+
+📌 Objetivo Geral
+
+Estruturar uma Central de Tecnologia integrada e sustentável, preparada para atender às necessidades atuais e futuras do HCFMRP, promovendo:
+
+Eficiência operacional
+
+Integração entre unidades
+
+Redução de retrabalho
+
+Melhoria na tomada de decisão baseada em dados
+
+Alinhamento estratégico com os objetivos institucionais
+
+⚠️ Justificativa
+
+A ausência de uma estrutura centralizada de TI gera impactos significativos, como:
+
+❌ Desorganização no fluxo de demandas técnicas
+
+❌ Falta de padronização de sistemas e soluções
+
+❌ Gargalos burocráticos e operacionais
+
+❌ Dificuldades na gestão de contratos e fornecedores
+
+❌ Limitações na execução de projetos institucionais
+
+❌ Riscos relacionados à segurança da informação
+
+A criação da Central de Tecnologia visa mitigar esses riscos e consolidar uma governança tecnológica robusta e estratégica.
+
+🏗 Estrutura do Repositório
+📂 documentacao/     → Documentos explicativos, normativos e técnicos  
+📂 cronograma/       → Planejamento do projeto por fases  
+📂 equipe/           → Estrutura organizacional proposta  
+📂 apresentacoes/    → Slides institucionais e materiais executivos  
+📂 planejamento/     → Planejamento estratégico completo  
+🚀 Resultados Esperados
+
+Maior integração entre as 8 unidades
+
+Agilidade no atendimento de demandas
+
+Redução de custos operacionais
+
+Aumento da maturidade em governança de TI
+
+Ambiente propício à inovação tecnológica
+
+📖 Contexto Institucional
+
+O HCFMRP é um complexo hospitalar de alta relevância acadêmica e assistencial. A consolidação de uma Central de Tecnologia fortalece sua capacidade de inovação, ensino, pesquisa e assistência à saúde, alinhando tecnologia e estratégia institucional.
