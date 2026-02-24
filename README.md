@@ -3,7 +3,7 @@
 Projeto de estruturação da Central de Tecnologia do HCFMRP, com o objetivo de centralizar, organizar e fortalecer a governança de TI nas 8 unidades do complexo hospitalar.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🎯 VISÃO DO PROJETO ##
+## 🎯 VISÃO DO PROJETO 
 
 Criar uma unidade estratégica de Tecnologia da Informação capaz de:
 
@@ -17,7 +17,7 @@ Impulsionar inovação e transformação digital
 
 Garantir governança, segurança e eficiência operacional
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📌 OBJETIVO GERAL ##
+## 📌 OBJETIVO GERAL 
 
 Estruturar uma Central de Tecnologia integrada e sustentável, preparada para atender às necessidades atuais e futuras do HCFMRP, promovendo:
 
@@ -31,7 +31,7 @@ Melhoria na tomada de decisão baseada em dados
 
 Alinhamento estratégico com os objetivos institucionais
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## ⚠️ JUSTIFICATIVA ##
+## ⚠️ JUSTIFICATIVA 
 
 A ausência de uma estrutura centralizada de TI gera impactos significativos, como:
 
@@ -49,7 +49,7 @@ A ausência de uma estrutura centralizada de TI gera impactos significativos, co
 
 A criação da Central de Tecnologia visa mitigar esses riscos e consolidar uma governança tecnológica robusta e estratégica.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 🏗 ESTRUTURA DO REPOSITÓRIO ##
+## 🏗 ESTRUTURA DO REPOSITÓRIO 
 📂 documentacao/     → Documentos explicativos, normativos e técnicos  
 📂 cronograma/       → Planejamento do projeto por fases  
 📂 equipe/           → Estrutura organizacional proposta  
@@ -67,7 +67,7 @@ Aumento da maturidade em governança de TI
 
 Ambiente propício à inovação tecnológica
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📖 CONTEXTO INSTITUCIONAL ##
+## 📖 CONTEXTO INSTITUCIONAL 
 
 O HCFMRP é um complexo hospitalar de alta relevância acadêmica e assistencial.
 
