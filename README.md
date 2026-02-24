@@ -1,4 +1,4 @@
-🏥 Central de Tecnologia – HCFMRP
+##🏥 Central de Tecnologia – HCFMRP
 
 Projeto de estruturação da Central de Tecnologia do HCFMRP, com o objetivo de centralizar, organizar e fortalecer a governança de TI nas 8 unidades do complexo hospitalar.
 
@@ -69,4 +69,5 @@ Ambiente propício à inovação tecnológica
 📖 CONTEXTO INSTITUCIONAL
 
 O HCFMRP é um complexo hospitalar de alta relevância acadêmica e assistencial.
+
 A consolidação de uma Central de Tecnologia fortalece sua capacidade de inovação, ensino, pesquisa e assistência à saúde, alinhando tecnologia e estratégia institucional.
