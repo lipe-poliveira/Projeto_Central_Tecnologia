@@ -2,7 +2,7 @@
 
 Projeto de estruturação da Central de Tecnologia do HCFMRP, com o objetivo de centralizar, organizar e fortalecer a governança de TI nas 8 unidades do complexo hospitalar.
 
-🎯 Visão do Projeto
+🎯 VISÃO DO PROJETO
 
 Criar uma unidade estratégica de Tecnologia da Informação capaz de:
 
@@ -16,7 +16,7 @@ Impulsionar inovação e transformação digital
 
 Garantir governança, segurança e eficiência operacional
 
-📌 Objetivo Geral
+📌 OBJETIVO GERAL
 
 Estruturar uma Central de Tecnologia integrada e sustentável, preparada para atender às necessidades atuais e futuras do HCFMRP, promovendo:
 
@@ -30,7 +30,7 @@ Melhoria na tomada de decisão baseada em dados
 
 Alinhamento estratégico com os objetivos institucionais
 
-⚠️ Justificativa
+⚠️ JUSTIFICATIVA
 
 A ausência de uma estrutura centralizada de TI gera impactos significativos, como:
 
@@ -48,13 +48,13 @@ A ausência de uma estrutura centralizada de TI gera impactos significativos, co
 
 A criação da Central de Tecnologia visa mitigar esses riscos e consolidar uma governança tecnológica robusta e estratégica.
 
-🏗 Estrutura do Repositório
+🏗 ESTRUTURA DO REPOSITÓRIO
 📂 documentacao/     → Documentos explicativos, normativos e técnicos  
 📂 cronograma/       → Planejamento do projeto por fases  
 📂 equipe/           → Estrutura organizacional proposta  
 📂 apresentacoes/    → Slides institucionais e materiais executivos  
 📂 planejamento/     → Planejamento estratégico completo  
-🚀 Resultados Esperados
+🚀 RESULTADOS ESPERADOS
 
 Maior integração entre as 8 unidades
 
@@ -66,6 +66,7 @@ Aumento da maturidade em governança de TI
 
 Ambiente propício à inovação tecnológica
 
-📖 Contexto Institucional
+📖 CONTEXTO INSTITUCIONAL
 
-O HCFMRP é um complexo hospitalar de alta relevância acadêmica e assistencial. A consolidação de uma Central de Tecnologia fortalece sua capacidade de inovação, ensino, pesquisa e assistência à saúde, alinhando tecnologia e estratégia institucional.
+O HCFMRP é um complexo hospitalar de alta relevância acadêmica e assistencial.
+A consolidação de uma Central de Tecnologia fortalece sua capacidade de inovação, ensino, pesquisa e assistência à saúde, alinhando tecnologia e estratégia institucional.
